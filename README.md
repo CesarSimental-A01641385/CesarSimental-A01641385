@@ -1,16 +1,23 @@
-## Hi there 👋
+Cesar Simental
+🤖 AI & Robotics
 
-<!--
-**CesarSimental-A01641385/CesarSimental-A01641385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏆 RoboCup 2024 Qualifier - Blenders FC Humanoid League
+🔍 Computer Vision Specialist - YOLOv12 (mAP 0.93/1.00)
+🧠 Machine Learning Engineer - Custom dataset creation & model evaluation
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Languages   : Python, C++, JavaScript, Dart, R, HTML/CSS, SQL
+Frameworks  : Node.js, Express.js, Flutter, React Native, Gatsby
+Data Science: Pandas, NumPy, Matplotlib
+Tools       : Git, Firebase, Linux, GCP, VS Code, Jupyter
+🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BAMX App - React Native medicine donation tracking app with Firebase backend
+RefSearch - Full-stack academic search engine with OpenAI integration
+Advanced Networking - Complex network configurations with Cisco technologies
+
+🎓 Education
+Tecnológico de Monterrey (2022-2026)
+B.S. Computer Science and Technology
+
+Turning ideas into working code since 2022
